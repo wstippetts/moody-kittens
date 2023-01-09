@@ -1,5 +1,6 @@
 let kitten = {};
 let kittens = [];
+// simple test
 /**
  * Called when submitting the new Kitten Form
  * This method will pull data from the form
